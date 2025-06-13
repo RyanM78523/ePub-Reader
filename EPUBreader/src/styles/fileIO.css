@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500;700&display=swap');
+
+.css-file-input::file-selector-button {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+}
+
+
+.css-file-input {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: bold;
+
+}
